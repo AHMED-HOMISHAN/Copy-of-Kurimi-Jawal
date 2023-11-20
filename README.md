@@ -10,15 +10,16 @@ Copy OF Kuraimi Jawal App by Flutter (Frontend" width =200>.
 
 # Screen Shots
 
+
+<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/540aee5d-4369-44ba-831b-faa287bb5cfc" width =200>
+<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/994db317-8d7d-4a0e-b579-83f94c8909c4" width =200>
+<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/b76e68fa-bc13-4521-8452-b94873c477df" width =200>
+<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/ba467fbd-e6be-4fa1-95b8-219f8b9a3600" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/5ac35391-d443-49b9-8aaa-c6c9f6c124e2" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/707d9269-b49c-478b-bdfd-de6393ef8170" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/a5b760d1-bb62-42e4-93f0-82c3631aa83b" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/02b66899-0264-435e-b3fe-304ef0fa8b2b" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/6337b923-d024-44b2-8926-908a7e6f240a" width =200>
-<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/540aee5d-4369-44ba-831b-faa287bb5cfc" width =200>
-<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/994db317-8d7d-4a0e-b579-83f94c8909c4" width =200>
-<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/b76e68fa-bc13-4521-8452-b94873c477df" width =200>
-<img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/ba467fbd-e6be-4fa1-95b8-219f8b9a3600" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/e25384c0-a9dc-432d-afcf-cdaee8127e34" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/1a186909-a5b1-44b7-901b-cb77423fbcb6" width =200>
 <img src="https://github.com/AHMED-HOMISHAN/Copy-of-Kurimi-Jawal/assets/111582706/702816e8-c56b-4c04-8d29-4bfa7bb84e85" width =200>
